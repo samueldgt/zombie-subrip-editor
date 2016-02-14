@@ -2,7 +2,7 @@
 
 ABOUT ----------------------------------------
 
-This Open Source software allows you to shift the entire time of a subrip subtitle file (extension .srt) by passing to the program the path of yor .srt file and the time you want to shift.
+This Open Source software allows you to shift the entire time of a subrip subtitle file (extension .srt) by passing to the program the path of your .srt file and the time you want to shift.
 
 Inputs:
 1. A valid and existing subrip file's path with .srt extension

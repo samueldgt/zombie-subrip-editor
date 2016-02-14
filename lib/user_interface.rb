@@ -26,7 +26,7 @@ class UserInterface
 	def agree_with_terms?
 		system "clear"
 		puts "--- Welcome to Zombie SubRip Editor v0.1 ---\n\n"
-		puts "This Open Source software allows you to shift the entire time of a subrip subtitle file (extensión .srt) by passing to the program the path of yor .srt file and the time you want to shift.\n\n"
+		puts "This Open Source software allows you to shift the entire time of a subrip subtitle file (extensión .srt) by passing to the program the path of your .srt file and the time you want to shift.\n\n"
 
 		puts "*** Terms: ***"
 		puts "This program is distributed under terms of the GNU General Public License.\n\n"
